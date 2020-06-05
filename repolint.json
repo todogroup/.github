@@ -1,0 +1,32 @@
+{
+  "axioms": {
+    "licensee":"license"
+  },
+  "rules": {
+    "all": {
+      "readme-file-exists:file-existence": ["error", {"files": ["README*"], "nocase": true}],
+      "ossmeta-file-exists:file-existence": ["error", {"files": ["OSSMETADATA*"], "nocase": true}],
+      "code-of-conduct-file-exists:file-existence": ["error", {"files": [
+        "CODEOFCONDUCT*", "CODE-OF-CONDUCT*", "CODE_OF_CONDUCT*",
+        ".github/CODEOFCONDUCT*", ".github/CODE-OF-CONDUCT*", ".github/CODE_OF_CONDUCT*"
+        ]}],
+      "code-of-conduct-file-contains-email:file-contents": [
+        "error",
+        {
+          "files": [
+            "CODEOFCONDUCT*", "CODE-OF-CONDUCT*", "CODE_OF_CONDUCT*",
+            ".github/CODEOFCONDUCT*", ".github/CODE-OF-CONDUCT*", ".github/CODE_OF_CONDUCT*"
+          ],
+          "content": ".+@.+\\..+",
+          "flags": "i",
+          "human-readable-content": "email address"
+        }
+      ],
+      "readme-references-license:file-contents": ["error", {"files": ["README*"], "content": "license", "flags": "i"}],
+      "license-file-exists:file-existence": ["error", {"files": ["LICENSE*", "COPYING*"], "nocase": true}]
+    },
+    "license=*": {
+      "license-detectable-by-licensee": ["error"]
+    }
+  }
+}
