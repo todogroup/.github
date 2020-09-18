@@ -61,8 +61,8 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-steering-committee@todogroup.org. 
-All complaints will be reviewed and investigated promptly and fairly.
+conduct@todogroup.org.
+All complaints will be reviewed and investigated promptly and fairly by the [TODO Group Steering Committee](https://github.com/todogroup/governance).
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
