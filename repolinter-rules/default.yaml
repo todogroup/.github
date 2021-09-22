@@ -1,0 +1,39 @@
+---
+# These are the default repolinter rules for all repositories managed by the
+# TODO Group. Individual repositories can extend and augment this ruleset as
+# needed. See more details at https://github.com/todogroup/repolinter.
+
+"$schema": "https://raw.githubusercontent.com/todogroup/repolinter/master/rulesets/schema.json"
+version: 2
+axioms:
+  licensee: license
+rules:
+  readme-file-exists:
+    level: error
+    rule:
+      type: file-existence
+      options:
+        globsAny:
+        - README*
+        nocase: true
+
+  # no requirement for code of conduct file in individual repos, since we apply it across the
+  # entire GitHub org: https://github.com/todogroup/.github/blob/master/CODE_OF_CONDUCT.md
+
+  # License related rules
+  license-file-exists:
+    level: error
+    rule:
+      type: file-existence
+      options:
+        globsAny:
+        - LICENSE*
+        - COPYING*
+        nocase: true
+  license-detectable-by-licensee:
+    level: warning
+    where:
+    - license=*
+    rule:
+      type: license-detectable-by-licensee
+      options: {}
