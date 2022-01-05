@@ -38,6 +38,7 @@ Course materials to train folks in OSPO management and implementation.
 
 Resources created by experienced professionals to keep learning about OSPOs
 
+* [The OSPO Guide](https://landscape.todogroup.org/guide): An ongoing set of documents that provides a holistic view and alignment of Open Source Program Office terminology, tasks, and responsibilities, as well as public use cases and learning resources in a cohesive application.
 * [OSPO Newsletter](https://github.com/todogroup/ospology/tree/main/newsletter)
 * [TODO OSPO guides](https://github.com/todogroup/todogroup.org/tree/main/content/en/guides)
 * [OSPO articles and use cases](https://github.com/todogroup/todogroup.org/tree/main/content/en/blog)
