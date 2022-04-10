@@ -1,5 +1,9 @@
-
 ![todo_readme](https://user-images.githubusercontent.com/43671777/133979142-4eb49681-0207-4311-b005-bb04610b4419.png)
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![twitter](https://img.shields.io/twitter/follow/todogroup?style=social)](https://twitter.com/todogroup)
 
 
 [TODO](https://todogroup.org/#) is an open group of organizations that want to collaborate on practices, tools, and other ways to run successful and effective open source projects and programs. House of the OSPO definition.
