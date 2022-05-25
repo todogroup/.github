@@ -7,7 +7,7 @@
 [![twitter](https://img.shields.io/twitter/follow/todogroup?style=social)](https://twitter.com/todogroup)
 
 
-[TODO](https://todogroup.org/#) is an open group of organizations that want to collaborate on practices, tools, and other ways to run successful and effective open source projects and programs. House of the OSPO definition.
+[TODO](https://todogroup.org/#) is an open community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices or similar Open Source initiatives. TODO Group is formed by its [Community](https://todogroup.org/community) participants and [General Members](https://todogroup.org/members).
 
 ## 🚀 Learn from a diverse community of professionals with years of experience building OSPOs wordwide
 
