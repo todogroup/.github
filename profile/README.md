@@ -1,6 +1,6 @@
 # 👋 A Worldwide Community and Resource Hub for OSPO Practitioners
 
-![ospoversereadme](https://user-images.githubusercontent.com/43671777/180249457-2b11db85-004a-4364-bf85-bc3fdb7b6c58.png)
+![ospo-todoorg-readme-cover](https://user-images.githubusercontent.com/43671777/180250962-3a0dad60-646c-42e4-9774-ff124c4ec073.png)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/todogroup/ospology/discussions)
