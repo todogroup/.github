@@ -49,6 +49,7 @@ Resources created by experienced professionals to keep learning about OSPOs
 * [OSPO Newsletter](https://github.com/todogroup/ospology/tree/main/newsletter)
 * [TODO OSPO guides](https://github.com/todogroup/todogroup.org/tree/main/content/en/guides)
 * [OSPO articles and use cases](https://github.com/todogroup/todogroup.org/tree/main/content/en/blog)
+* [OSPO Policies](https://github.com/todogroup/policies)
 
 **🔭 Adoption**
 
