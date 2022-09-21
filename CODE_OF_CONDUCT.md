@@ -1,5 +1,5 @@
 
-# Contributor Covenant Code of Conduct
+# TODO Group Code of Conduct
 
 ## Our Pledge
 
@@ -34,6 +34,7 @@ Examples of unacceptable behavior include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or email
   address, without their explicit permission
+* Spam or other deceptive practices that take advantage of the TODO community
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
