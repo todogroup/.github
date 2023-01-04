@@ -4,8 +4,10 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/todogroup/ospology/discussions)
-[![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)](https://www.getrevue.co/profile/osponews)
+[![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)](https://ospo-news.ghost.io/)
 [![twitter](https://img.shields.io/twitter/follow/todogroup?style=social)](https://twitter.com/todogroup)
+[![ospology](https://img.shields.io/youtube/channel/subscribers/UCi-ELHAwzoYZvAs4FH-ShaA?style=social)](https://www.youtube.com/@ospology)
+
 
 
 [TODO](https://todogroup.org/#) is an open community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices or similar Open Source initiatives. TODO Group is formed by its [Community](https://todogroup.org/community) participants and [General Members](https://todogroup.org/members).
