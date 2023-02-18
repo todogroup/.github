@@ -84,4 +84,4 @@ We use a [TODO Kanban](https://github.com/todogroup/todogroup.org/projects/1) to
 
 ## 👋 Get in touch
 
-Follow [@todogroup](https://twitter.com/todogroup) on Twitter and join the [Slack](https://slack.todogroup.org/)!
+Follow [@todogroup](https://twitter.com/todogroup) on Twitter and join the [Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-169ok18cz-Pi6tpVHTeW9254d1FpkLew)!
