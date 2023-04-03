@@ -78,7 +78,20 @@ OSPO tooling started by the TODO Group community members:
 * [TODO Artwork](https://github.com/todogroup/artwork)
 * [OSPO Presentations](https://github.com/todogroup/presentations): Set of presentations about Open Source Program Offices
 
-We use a [TODO Kanban](https://github.com/todogroup/todogroup.org/projects/1) to manage the different issues and PR from the community
+We use a [TODO Kanban](https://github.com/todogroup/todogroup.org/projects/1) to manage the different issues and PR from the community.
+
+## ✍️ DCO and Sign-Off for contributions
+
+The TODO Charter requires that contributions are accompanied by a Developer Certificate of Origin sign-off. For ensuring it, a bot checks all incoming commits.
+
+For users of the git command line interface, a sign-off is accomplished with the -s as part of the commit command:
+
+`git commit -s -m 'This is a commit message'`
+
+For users of the GitHub interface (using the "edit" button on any file, and producing a commit from it), a sign-off is accomplished by writing
+
+`Signed-off-by: Your Name <YourName@example.org>`
+
 
 ## 👋 Get in touch
 
