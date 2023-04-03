@@ -24,15 +24,16 @@ Founded in 2012, the TODO Group is a place to share experiences, develop best pr
 ## 📝 Discover the TODO resources and initiatives
 
 
-TODO resources are open to everyone and available at [TODO Group GitHub repo](https://github.com/todogroup) under CC-BY 4.0 Licence. We encourage people to share their knowledge and help to grow this community by adding their contributions to the different TODO initiatives such as:
+TODO resources are open to everyone and available at [TODO Group GitHub repo](https://github.com/todogroup) under Creative Commons Attribution 4.0 International Licence (non-code contirbutions) or Apache License, Version 2.0 (code contirbutions). We encourage people to share their knowledge and help to grow this community by adding their contributions to the different TODO initiatives such as:
+
 
 **💬 Network**
 
 Connect with experienced OSPO professionals and industry supporters across sectors. Choose the best format that better fits your needs!
 
-* [OSPOlogy: Community Meetings](https://github.com/todogroup/ospology/tree/main/meetings): monthly community meetings with a defined agenda, featured speakers, and informal face-to-face discussions.
+* [OSPOlogy Webinars](https://github.com/todogroup/ospology/tree/main/meetings): monthly community meetings with a defined agenda, featured speakers, and informal face-to-face discussions.
 * [OSPO Discussions](https://github.com/todogroup/ospology/discussions): general OSPO threads proposed by the community
-* [Slack Conversations](https://slack.todogroup.org/): real-time conversations to connect with peers in the OSPO community
+* [Real-time Chat Conversations](https://slack.todogroup.org/): real-time conversations to connect with peers in the OSPO community
 
 **✏️ Training**
 
@@ -44,7 +45,7 @@ Course materials to train folks in OSPO management and implementation.
 
 Resources created by experienced professionals to keep learning about OSPOs
 
-* [OSPO 5-stages Model & Archetypes](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/): This whitepaper provides a set of patterns and directions – and even a checklist! – to help implement an OSPO or an open source initiative within corporate environments. This includes an OSPO maturity model, practical implementation from noted OSPO programs across regions and sectors, and a handful of broad OSPO archetypes (or personas), which drive differentiation in OSPO behavior.
+* [OSPO 5-stages Model](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/): This whitepaper provides a set of patterns and directions – and even a checklist! – to help implement an OSPO or an open source initiative within corporate environments. This includes an OSPO maturity model, practical implementation from noted OSPO programs across regions and sectors, and a handful of broad OSPO archetypes (or personas), which drive differentiation in OSPO behavior.
 * [The OSPO Guide](https://landscape.todogroup.org/guide): An ongoing set of documents that provides a holistic view and alignment of Open Source Program Office terminology, tasks, and responsibilities, as well as public use cases and learning resources in a cohesive application.
 * [OSPO Newsletter](https://github.com/todogroup/ospology/tree/main/newsletter)
 * [TODO OSPO guides](https://github.com/todogroup/todogroup.org/tree/main/content/en/guides)
