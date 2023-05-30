@@ -5,8 +5,10 @@
 [![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/todogroup/ospology/discussions)
-[![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)](https://www.getrevue.co/profile/osponews)
-
+[![Newsletter](https://img.shields.io/badge/OSPO-Newsletter-%2300FFFF)](https://ospo-news.ghost.io/)
+[![Mastodon](https://img.shields.io/mastodon/follow/109380988785604063?domain=https%3A%2F%2Fmastodon.world&style=social)](https://mastodon.world/@todogroup@social.lfx.dev)
+[![twitter](https://img.shields.io/twitter/follow/todogroup?style=social)](https://twitter.com/todogroup)
+[![ospology](https://img.shields.io/youtube/channel/subscribers/UCi-ELHAwzoYZvAs4FH-ShaA?style=social)](https://www.youtube.com/@ospology)
 
 [TODO](https://todogroup.org/#) is an open community of practitioners who aim to create and share knowledge, collaborate on practices, tools, and other ways to run successful and effective Open Source Program Offices or similar Open Source initiatives. TODO Group is formed by its [Community](https://todogroup.org/community) participants and [General Members](https://todogroup.org/members).
 
@@ -96,4 +98,4 @@ For users of the GitHub interface (using the "edit" button on any file, and prod
 
 ## 👋 Get in touch
 
-Follow [@todogroup](https://twitter.com/todogroup) on Twitter and join the [Slack](https://slack.todogroup.org/)!
+Follow [@todogroup](https://twitter.com/todogroup) on Twitter and join the [Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-169ok18cz-Pi6tpVHTeW9254d1FpkLew)!
