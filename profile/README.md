@@ -24,7 +24,7 @@ Founded in 2012, the TODO Group is a place to share experiences, develop best pr
 ## 📝 Discover the TODO resources and initiatives
 
 
-TODO resources are open to everyone and available at [TODO Group GitHub repo](https://github.com/todogroup) under Creative Commons Attribution 4.0 International Licence (non-code contirbutions) or Apache License, Version 2.0 (code contirbutions). We encourage people to share their knowledge and help to grow this community by adding their contributions to the different TODO initiatives such as:
+TODO resources are open to everyone and available at [TODO Group GitHub repo](https://github.com/todogroup) under Creative Commons Attribution 4.0 International Licence (non-code contributions) or Apache License, Version 2.0 (code contributions). We encourage people to share their knowledge and help to grow this community by adding their contributions to the different TODO initiatives such as:
 
 
 **💬 Network**
