@@ -24,39 +24,35 @@ Founded in 2012, the TODO Group is a place to share experiences, develop best pr
 ## 📝 Discover the TODO resources and initiatives
 
 
-TODO resources are open to everyone and available at [TODO Group GitHub repo](https://github.com/todogroup) under Creative Commons Attribution 4.0 International Licence (non-code contirbutions) or Apache License, Version 2.0 (code contirbutions). We encourage people to share their knowledge and help to grow this community by adding their contributions to the different TODO initiatives such as:
+TODO resources are open to everyone and available at [TODO Group GitHub repo](https://github.com/todogroup) under Creative Commons Attribution 4.0 International Licence (non-code contributions) or Apache License, Version 2.0 (code contirbutions). We encourage people to share their knowledge and help to grow this community by adding their contributions to the different TODO initiatives such as:
 
 
 **💬 Network**
 
 Connect with experienced OSPO professionals and industry supporters across sectors. Choose the best format that better fits your needs!
 
-* [OSPOlogy Webinars](https://github.com/todogroup/ospology/tree/main/meetings): monthly community meetings with a defined agenda, featured speakers, and informal face-to-face discussions.
+* Touchpoints: monthly community meetings with featured topics and speakers, and informal discussions.
 * [OSPO Discussions](https://github.com/todogroup/ospology/discussions): general OSPO threads proposed by the community
 * [Real-time Chat Conversations](https://slack.todogroup.org/): real-time conversations to connect with peers in the OSPO community
 
-**✏️ Training**
-
-Course materials to train folks in OSPO management and implementation.
-
-* [OSPO Training Modules](https://github.com/todogroup/ospo101): OSPO 101 is a course on everything you need to know about open source program office management
-
-**📖 Education**
+**✏️ Resources & Education**
 
 Resources created by experienced professionals to keep learning about OSPOs
 
-* [OSPO 5-stages Model](https://linuxfoundation.org/tools/the-evolution-of-the-open-source-program-office-ospo/): This whitepaper provides a set of patterns and directions – and even a checklist! – to help implement an OSPO or an open source initiative within corporate environments. This includes an OSPO maturity model, practical implementation from noted OSPO programs across regions and sectors, and a handful of broad OSPO archetypes (or personas), which drive differentiation in OSPO behavior.
-* [The OSPO Guide](https://landscape.todogroup.org/guide): An ongoing set of documents that provides a holistic view and alignment of Open Source Program Office terminology, tasks, and responsibilities, as well as public use cases and learning resources in a cohesive application.
-* [OSPO Newsletter](https://github.com/todogroup/ospology/tree/main/newsletter)
-* [TODO OSPO guides](https://github.com/todogroup/todogroup.org/tree/main/content/en/guides)
-* [OSPO articles and use cases](https://github.com/todogroup/todogroup.org/tree/main/content/en/blog)
+* [Glossary](https://todogroup.org/resources/glossary/) -- Common terms and definitions of OSPO
+* [Studies](https://todogroup.org/resources/studies/) -- Maturity model, surveys, and reports to help your OSPO journey
+* [MindMap](https://todogroup.org/resources/mindmap/) -- Responsibilities, roles, behavior, and team sizes within OSPOs
+* [Training Modules](https://todogroup.org/resources/training/) -- Free and open courses covering everything you need to know
+* [Guides](https://todogroup.org/resources/guides/) -- open source program management best practices for organizations
+* [Case Studies](https://todogroup.org/resources/case-studies/) Real case studies showcasing the impact of OSPOs on organizations worldwide
 * [OSPO Policies](https://github.com/todogroup/policies)
+
 
 **🔭 Adoption**
 
 Join the OSPO movement!
 
-How many OSPOs are out there? Which are the different tools within the OSPO tool infrastructure? Which communities are OSPO supporters? Explore the OSPO Ecosystem and help us build toguether this Landscape to give visibility of OSPOs worlwide!
+How many OSPOs are out there? Which are the different tools within the OSPO tool infrastructure? Which communities are OSPO supporters? Explore the OSPO Ecosystem and help us build together this Landscape to give visibility of OSPOs worldwide!
 
 * [OSPO Landscape](https://github.com/todogroup/ospolandscape)
 
@@ -74,12 +70,17 @@ OSPO tooling started by the TODO Group community members:
 
 * [RepoLinter](https://github.com/todogroup/repolinter): Lint open source repositories for common issues.
 
-**📢 Other**
+**🧑‍🎨 Design & Brand Identity**
 
+* [Brand Guidebook](https://todogroup.org/resources/guidebook/): TODO Brand Guidebook and visual identity
 * [TODO Artwork](https://github.com/todogroup/artwork)
 * [OSPO Presentations](https://github.com/todogroup/presentations): Set of presentations about Open Source Program Offices
 
-We use a [TODO Kanban](https://github.com/todogroup/todogroup.org/projects/1) to manage the different issues and PR from the community.
+**📢 Communications & News**
+
+* [TODO Newsletter](https://github.com/todogroup/ospology/tree/main/newsletter)
+* [TODO Blog](https://github.com/todogroup/todogroup.org/tree/main/content/en/blog)
+  
 
 ## ✍️ DCO and Sign-Off for contributions
 
@@ -96,4 +97,4 @@ For users of the GitHub interface (using the "edit" button on any file, and prod
 
 ## 👋 Get in touch
 
-Follow [@todogroup](https://twitter.com/todogroup) on Twitter and join the [Slack](https://slack.todogroup.org/)!
+Follow [TODO Group LinkedIn Profile](https://www.linkedin.com/company/todo-group/) and join the [Slack](https://join.slack.com/t/thetodogroup/shared_invite/zt-2w71kclgx-JOUB4LTXIuVEKehkJk7V0w)!
