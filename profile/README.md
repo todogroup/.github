@@ -1,4 +1,4 @@
-# 👋 A Worldwide Community and Resource Hub for OSPO Practitioners
+# 👋 Open Community and Resource Hub for Open Source Managers and OSPO Practitioners
 
 ![ospo-todoorg-readme-cover](https://user-images.githubusercontent.com/43671777/180250962-3a0dad60-646c-42e4-9774-ff124c4ec073.png)
 
