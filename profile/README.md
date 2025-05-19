@@ -44,8 +44,9 @@ Resources created by experienced professionals to keep learning about OSPOs
 * [MindMap](https://todogroup.org/resources/mindmap/) -- Responsibilities, roles, behavior, and team sizes within OSPOs
 * [Training Modules](https://todogroup.org/resources/training/) -- Free and open courses covering everything you need to know
 * [Guides](https://todogroup.org/resources/guides/) -- open source program management best practices for organizations
-* [Case Studies](https://todogroup.org/resources/case-studies/) Real case studies showcasing the impact of OSPOs on organizations worldwide
-* [OSPO Policies](https://github.com/todogroup/policies)
+* [Case Studies](https://todogroup.org/resources/case-studies/) -- Real case studies showcasing the impact of OSPOs on organizations worldwide
+* [OSPO Policies](https://github.com/todogroup/policies) -- open source policy examples and templates
+* [Book](https://todogroup.org/resources/book/) -- Source of knowledge for organizations developing open source management strategies
 
 
 **🔭 Adoption**
